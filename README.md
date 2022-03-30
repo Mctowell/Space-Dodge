@@ -1,3 +1,6 @@
+# Disclaimer
+THIS ONLY WORKS ON WINDOWS
+
 # Space-Dodge
 A game where you dodge 
 
@@ -19,3 +22,5 @@ If you remix it, you need credit me.
 ![Title Screen](https://raw.githubusercontent.com/Mctowell/Space-Dodge/main/Screenshots/Title_Preview.png)
 
 ![Play Screen](https://raw.githubusercontent.com/Mctowell/Space-Dodge/main/Screenshots/Game_preview1.png)
+
+
